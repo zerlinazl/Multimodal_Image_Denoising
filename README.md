@@ -35,6 +35,28 @@ python setup.py develop --user
 ```
 from the `uvcgan` source tree.
 
+## Dataset
+
+I used the [`SIDD`](https://www.eecs.yorku.ca/~kamel/sidd/) image dataset by Abdelhamed et al. Even the small image dataset is too large to put on GitHub, but it can be downloaded from the link. UVCGAN requires that the data be restructured to the following format:
+
+`test`
+
+  `Domain 1 (N)`
+
+  `Domain 2 (GT)`
+
+`train`
+
+  `Domain 1 (N)`
+
+  `Domain 2 (GT)`
+
+`val`
+
+  `Domain 1 (N)`
+
+  `Domain 2 (GT)`
+
 ## Model Training
 
 To train the model, run from `uvcgan`:
