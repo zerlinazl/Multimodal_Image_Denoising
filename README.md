@@ -42,7 +42,7 @@ To train the model, run from `uvcgan`:
 python3 sidd.py
 ```
 
-## 4. Evaluation of the trained model
+## Model Evaluation
 
 To perform image-to-image translation with the trained models, 
 `scripts/translate_images.py` is provided. Run:
