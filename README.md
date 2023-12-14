@@ -1,6 +1,6 @@
 # Overview
 
-This code is based off of [`uvcgan`] [uvcgan_paper].
+This code is based off of `uvcgan` ([uvcgan_paper]).
 
 From the repo:
 "`uvcgan` introduces an improved method to perform an unpaired image-to-image
