@@ -41,21 +41,21 @@ I used the [`SIDD`](https://www.eecs.yorku.ca/~kamel/sidd/) image dataset by Abd
 
 `test`
 
-  `Domain 1 (N)`
+&emsp;`Domain 1 (N)`
 
-  `Domain 2 (GT)`
+&emsp;`Domain 2 (GT)`
 
 `train`
 
-  `Domain 1 (N)`
+&emsp;`Domain 1 (N)`
 
-  `Domain 2 (GT)`
+&emsp;`Domain 2 (GT)`
 
 `val`
 
-  `Domain 1 (N)`
+&emsp;`Domain 1 (N)`
 
-  `Domain 2 (GT)`
+&emsp;`Domain 2 (GT)`
 
 ## Model Training
 
