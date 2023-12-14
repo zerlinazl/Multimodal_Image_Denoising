@@ -1,9 +1,8 @@
 # Overview
 
-This code is based off of ['uvcgan'] [uvcgan_paper].
+This code is based off of [`uvcgan`] [uvcgan_paper].
 
 From the repo:
-
 "`uvcgan` introduces an improved method to perform an unpaired image-to-image
 style transfer based on a CycleGAN framework. Combined with a new hybrid
 generator architecture UNet-ViT (UNet-Vision Transformer) and a self-supervised
