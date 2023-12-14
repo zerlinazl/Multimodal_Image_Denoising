@@ -1,6 +1,8 @@
 # Overview
 
-This code is based off of `uvcgan` ([uvcgan_paper]).
+This code is based off of `uvcgan`([uvcgan_paper]).
+
+[Click here](https://github.com/zerlinazl/MM-Image-Denoising-Paper) for the accompanying paper LaTeX files.
 
 From the repo:
 "`uvcgan` introduces an improved method to perform an unpaired image-to-image
